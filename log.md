@@ -1,12 +1,12 @@
 # Day 1: Installing Python
-**Completion Date:** 
+**Completion Date: 2020 02 16** 
 
-**Learned:** 
+**Learned: Install, test Hello World** 
 
 # Day 2: Printing in Python
-**Completion Date:** 
+**Completion Date: 2020 02 21** 
 
-**Learned:** 
+**Learned: Printing, very basic string stuff.** 
 
 # Day 3: Operators
 **Completion Date:** 
