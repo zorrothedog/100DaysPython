@@ -9,9 +9,9 @@
 **Learned: Printing, very basic string stuff.** 
 
 # Day 3: Operators
-**Completion Date:** 
+**Completion Date: 2020 02 21** 
 
-**Learned:** 
+**Learned: Mathmatical operations, boolean operators ** 
 
 # Day 4: Variables & Variable Types
 **Completion Date:** 
