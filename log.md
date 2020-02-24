@@ -14,14 +14,14 @@
 **Learned: Mathmatical operations, boolean operators ** 
 
 # Day 4: Variables & Variable Types
-**Completion Date:** 
+**Completion Date: 2020 02 22** 
 
-**Learned:** 
+**Learned: stuff about variables** 
 
 # Day 5: String Formatting
-**Completion Date:** 
+**Completion Date: 2020 02 22** 
 
-**Learned:** 
+**Learned: more string formatting** 
 
 # Day 6: Lists
 **Completion Date:** 
