@@ -24,9 +24,9 @@
 **Learned: more string formatting** 
 
 # Day 6: Lists
-**Completion Date:** 
+**Completion Date: 2020 02 23** 
 
-**Learned:** 
+**Learned: stuff about lists, indexes, sorting, modification** 
 
 # Day 7: Ranges
 **Completion Date:** 
