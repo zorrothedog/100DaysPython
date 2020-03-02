@@ -29,9 +29,9 @@
 **Learned: stuff about lists, indexes, sorting, modification** 
 
 # Day 7: Ranges
-**Completion Date:** 
+**Completion Date: 2020 03 02** 
 
-**Learned:** 
+**Learned: A bunch of stuff about ranges.** 
 
 # Day 8: Tuples
 **Completion Date:** 
